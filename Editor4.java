@@ -1,5 +1,8 @@
 import java.awt.Color;
-
+/*
+This client program performs another striking visual effect:
+ it morphs an image into its grescaled version.
+ */
 public class Editor4 {
 
         public static void main (String[] args) {
